@@ -13,7 +13,7 @@ This repository documents my progress through the book, helping me strengthen my
 
 ## Progress
 
-- [ ] Chapter 2 — Program Structure
+- [X] Chapter 2 — Program Structure
 - [ ] Chapter 3 — Functions
 - [ ] Chapter 4 — Data Structures: Objects and Arrays
 - [ ] Chapter 5 — Higher-Order Functions
